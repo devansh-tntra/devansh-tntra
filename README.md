@@ -41,11 +41,6 @@ Key areas of work:
 - IFS Cloud deployment and environment management
 - Enterprise reporting, Lobbies, and analytics
 
-**Project Experience**
-
-- 🇸🇦 **CLAUGER KSA:** IFS Cloud integration with ClearTax for ZATCA Phase 2 E-Invoicing.
-- 🏭 **APAG:** IFS Applications 8 on-premise implementation, data migration, deployment, and localization.
-- 🛠️ **IFS Developer Intelligence MCP:** AI-powered developer assistant for IFS development workflows.
 
 ---
 
